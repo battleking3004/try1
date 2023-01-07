@@ -1,0 +1,89 @@
+body{
+    background-color: skyblue;
+    text-align: center;
+    margin: auto 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.head{
+    margin: 10% auto 0 auto;
+    width: 10%;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: 'Sevillana', cursive;
+  
+}
+.para{
+    margin: 0 auto;
+    text-decoration: underline;
+    font-family: 'Anybody', cursive;
+  
+}
+.cloud1{
+  width: 20%;
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+.cloud2{
+    width: 20%;
+    position: absolute;
+    right: 20px;
+    top: 25%;
+  }
+.mountain{
+    width: 100%;
+}
+hr{
+    border: 5px solid green;
+    border-radius: 3px;
+  }
+  .pic1{
+   border-radius: 60%;
+   position: relative;
+   top: 200px;
+  }
+  .Acade{
+    position: relative ;
+    right: 950px;
+    top: 80px;
+    display: inline-block;
+
+   
+  }
+
+.tab1{
+  position: relative;
+outline: 2px solid;
+padding-right : 10px;
+top: 120px;
+}
+
+
+.tab2{
+  position: relative;
+outline: 2px solid;
+padding-right : 10px;
+bottom: 120px;
+left: 1200px;
+
+}
+
+td ,tr {
+  padding: 8px;
+}
+.Study{
+position: relative;
+bottom: 150px;
+left: 500px;
+display: inline-block;
+
+}
+.aboutme{
+position: relative;
+right: 20px;
+font-size: 90px;
+
+text-decoration: underline;
+}
